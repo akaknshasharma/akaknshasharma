@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akaknshasharma
 - 👀 I’m interested in analysing data, creating visuals out of it
-- 🌱 I’m currently learning data analytics
+- 🌱 I’m currently working as data analyst
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 you can reach out to me via linked in @https://www.linkedin.com/in/dr-akanksha-sharma15/
 
